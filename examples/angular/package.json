@@ -12,7 +12,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "14.0.2",
+    "@angular/common": "20.3.34",
     "@angular/compiler": "14.0.2",
     "@angular/core": "14.0.2",
     "@angular/elements": "14.0.2",
